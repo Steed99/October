@@ -8,6 +8,11 @@ public class GITProjectOct {
 		System.out.println("First Code Added");
 		System.out.println("Bala's code");
 
+		System.out.println("Sams Code");
+
+		System.out.println("Anu's Code");
+
+
 	}
 
 }
